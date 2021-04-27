@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  margin-left: 20rem;
+}
+
+body {
+  background-color: #fdf2f8;
+}
+
+h1 {
+  font-family: cursive;
+  margin-top: 3rem;
+}
+.para {
+  font-family: cursive;
+}
+.division {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.menu {
+  background-color: #fee2e2;
+  border: 1px solid #60a5fa;
+  box-shadow: 2px 3px #60a5fa;
+  display: inline;
+  margin: 0rem 0.7rem;
+  padding: 7px 15px;
+  border-radius: 5px 15px;
+  cursor: pointer;
+}
+hr {
+  width: 40rem;
+  text-align: left;
+  margin-left: 0rem;
+}
